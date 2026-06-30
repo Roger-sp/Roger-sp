@@ -8,7 +8,7 @@ Senior Backend Software Engineer | .NET | Microservices | Cloud | Financial Syst
 
 ## 👨‍💻 About Me
 
-Senior Backend Engineer with over **15 years of experience** in software development and more than **10 years in the Financial Services industry**, delivering mission-critical applications for institutions such as **Santander, BTG Pactual, and UBS**.
+Senior Backend Engineer with over **15 years of experience** in software development and more than **10 years in the Financial Services industry**, delivering mission-critical applications for institutions such as **Santander, BTG Pactual, and UBS**, and also experience in the **Telecommunications sector** with companies like **Claro, Vivo, and Sky**.
 
 Specialized in designing scalable, secure, cloud-native, and high-performance backend solutions using modern .NET technologies and Microservices Architecture.
 
@@ -19,6 +19,14 @@ Specialized in designing scalable, secure, cloud-native, and high-performance ba
 - Santander
 - BTG Pactual
 - UBS
+
+---
+
+## 📡 Telecommunications Industry
+
+- Claro
+- Vivo
+- Sky
 
 ---
 
@@ -80,10 +88,8 @@ Specialized in designing scalable, secure, cloud-native, and high-performance ba
 
 ## 📫 Contact
 
-LinkedIn
-
+LinkedIn  
 www.linkedin.com/in/roggerio
 
-Email
-
+Email  
 rogger-sp@hotmail.com
