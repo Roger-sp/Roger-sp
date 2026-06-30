@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rogério Pereira 👋
 
-<!--
-**Roger-sp/Roger-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 15+ years of experience building mission-critical banking systems.
 
-Here are some ideas to get you started:
+Currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ C#
+✔ .NET 8
+✔ Microservices
+✔ AWS
+✔ Kafka
+✔ RabbitMQ
+✔ Docker
+✔ Kubernetes
+✔ OAuth2 / JWT
+✔ SQL Server
+✔ Azure DevOps
+
+Previous experience:
+
+🏦 Santander
+🏦 UBS
+🏦 BTG Pactual
+
+Specialties
+
+• Distributed Systems
+• Event Driven Architecture
+• High Performance APIs
+• Financial Systems
+• Cloud Native Applications
+• Clean Architecture
