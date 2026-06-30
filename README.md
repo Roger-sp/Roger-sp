@@ -1,32 +1,89 @@
-# Hi, I'm Rogério Pereira 👋
+<h1 align="center">Hi 👋, I'm Rogério Pereira</h1>
 
-Senior Backend Engineer with 15+ years of experience building mission-critical banking systems.
+<h3 align="center">
+Senior Backend Software Engineer | .NET | Microservices | Cloud | Financial Systems
+</h3>
 
-Currently working with:
+---
 
-✔ C#
-✔ .NET 8
-✔ Microservices
-✔ AWS
-✔ Kafka
-✔ RabbitMQ
-✔ Docker
-✔ Kubernetes
-✔ OAuth2 / JWT
-✔ SQL Server
-✔ Azure DevOps
+## 👨‍💻 About Me
 
-Previous experience:
+Senior Backend Engineer with over **15 years of experience** in software development and more than **10 years in the Financial Services industry**, delivering mission-critical applications for institutions such as **Santander, BTG Pactual, and UBS**.
 
-🏦 Santander
-🏦 UBS
-🏦 BTG Pactual
+Specialized in designing scalable, secure, cloud-native, and high-performance backend solutions using modern .NET technologies and Microservices Architecture.
 
-Specialties
+---
 
-• Distributed Systems
-• Event Driven Architecture
-• High Performance APIs
-• Financial Systems
-• Cloud Native Applications
-• Clean Architecture
+## 🏦 Financial Industry
+
+- Santander
+- BTG Pactual
+- UBS
+
+---
+
+## 🚀 Core Technologies
+
+- C#
+- .NET 8
+- ASP.NET Core
+- Microservices
+- REST APIs
+- SQL Server
+- Oracle
+- Docker
+- Kubernetes
+- AWS
+- Azure DevOps
+- RabbitMQ
+- Kafka
+- OAuth2
+- JWT
+- OpenID Connect
+
+---
+
+## 🏗 Software Architecture
+
+- Clean Architecture
+- Domain Driven Design (DDD)
+- SOLID
+- CQRS
+- Event-Driven Architecture
+- Design Patterns
+- High Availability
+- Distributed Systems
+
+---
+
+## ☁ Cloud
+
+- AWS EC2
+- DynamoDB
+- SQS
+- SNS
+- CloudWatch
+
+---
+
+## 🔐 Security
+
+- OAuth2
+- JWT
+- Identity Server
+- Authentication
+- Authorization
+- RBAC
+- Claims
+
+---
+
+## 📫 Contact
+
+LinkedIn
+
+www.linkedin.com/in/roggerio
+
+Email
+
+rogger-sp@hotmail.com
